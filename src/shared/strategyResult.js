@@ -1,0 +1,45 @@
+export const STRATEGYRESULTINIT = [
+      {
+        'equityName': 'Apple',
+        '9 M Growth': '-35%',
+        '3 M Growth': '10%',
+        'marketCap': '1000',
+        strategyId: 0,
+      },
+      {
+        'equityName': 'Netflix',
+        '9 M Growth': '-18%',
+        '3 M Growth': '15%',
+        'marketCap': '2000',
+        strategyId: 0,
+      },
+      {
+        'equityName': 'Microsoft',
+        '9 M Growth': '-35%',
+        '3 M Growth': '10%',
+        'marketCap': '1000',
+        strategyId: 1,
+      },
+      {
+        'equityName': 'Google',
+        '9 M Growth': '-18%',
+        '3 M Growth': '15%',
+        'marketCap': '2000',
+        strategyId: 1,
+      },
+      ,
+      {
+        'equityName': 'Investment Bot',
+        '9 M Growth': '-35%',
+        '3 M Growth': '10%',
+        'marketCap': '1000',
+        strategyId: 2,
+      },
+      {
+        'equityName': 'Sample stock',
+        '9 M Growth': '-18%',
+        '3 M Growth': '15%',
+        'marketCap': '2000',
+        strategyId: 2,
+      },
+  ];

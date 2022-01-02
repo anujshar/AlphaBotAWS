@@ -1,0 +1,8 @@
+Front end
+- Merge rules and rulesError state into one array instead of 2 separate arrays
+- Fix the error in criteriaValue input text when a non-numeric character is input
+
+
+Back end
+- Fix logic to start from today's date
+- 
